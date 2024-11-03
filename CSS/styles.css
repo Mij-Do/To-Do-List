@@ -34,31 +34,9 @@
 .result {
     width: 100%;
     padding: 10px;
+    
 }
 
-
-.result button:nth-child(2) {
-    width: 100px;
-    border: none;
-    outline: none;
-    padding: 5px;
-    background-color: green;
-    color: white;
-    border-radius: 3px;
-    display: none;
-} 
-
-
-.result button:nth-child(3) {
-    width: 100px;
-    border: none;
-    outline: none;
-    padding: 5px;
-    background-color: red;
-    color: white;
-    border-radius: 3px;
-    display: none;
-} 
 
 .child button {
     background-color: indigo;
